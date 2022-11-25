@@ -5,3 +5,13 @@
     color: purple;
     font-weight: bold;
 }
+
+.text{
+color: magenta;
+padding-left: 50px;
+padding-top: 20px;
+display: flex;
+margin: 0%;
+
+}
+
