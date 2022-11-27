@@ -9,8 +9,10 @@
 .text{
 color: magenta;
 padding-top: 20px;
+padding-right: 20px;
 display: flex;
 margin: 0%;
+justify-content: flex-start;
 
 }
 
